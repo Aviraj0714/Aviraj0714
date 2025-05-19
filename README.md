@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Aviraj0714<br>👀 I’m interested in web devlopment<br>🌱 I’m currently learning MERN<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me - avirajbhaliya03@gmail.com
+👋 Hi, I’m @Aviraj0714<br>👀 I’m interested in web devlopment<br>🌱 I’m currently learning MERN<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me - avbhaliya07@gmail.com
 
 
 ## 🌐 Socials:
